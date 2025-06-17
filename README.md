@@ -14,8 +14,8 @@ The device is powered through a USB-C cable, which can be plugged into the PC or
 ### Modes of operation
 The device can enter three distinct modes of operation, which can be selected by holding the button for a certain time during startup.
 * < 1s - Normal mode
-* > 1s and < 2s - Quiet mode - vibration motor is disabled
-* > 2s - Aggressive mode - work period is slightly reduced, breaks are longer. Vibration is stronger. 
+* \> 1s and < 2s - Quiet mode - vibration motor is disabled
+* \> 2s - Aggressive mode - work period is slightly reduced, breaks are longer. Vibration is stronger. 
 
 
 ### Images
